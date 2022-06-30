@@ -1,0 +1,2 @@
+# backend-frontend-nodejs
+Learn how to create a basic API with Express. We cover how to make routes flexible with parameters and query-strings, how to work with incoming JSON, how to use Postman, how to make our API available from any domain (CORS policy) and finally we look at examples of how a front-end can leverage our API and client-side-routing to create a dynamic Single Page Application.   From Youtube Link👉https://youtu.be/xq34NS4S59o 
